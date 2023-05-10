@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(226, 160, 28);
+    position: relative;
+    display: flex;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4em;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 100px 0 0 930px;
+    position: absolute;
+}
+
+.wrapper2 {
+    margin: 750px 0 0 1120px;
+    position: absolute;
+}
+
+.wrapper3 {
+    margin: 400px 200px 100px 990px;
+    position: absolute;
+    font-size: 1em;
+    text-align: center;
+    z-index:1;
+}
+
+.wrapper {
+    margin: 200px 0 0 920px;
+    z-index: 2;
+}
+
